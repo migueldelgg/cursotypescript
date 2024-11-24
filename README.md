@@ -1,3 +1,8 @@
+
+
+<img src="https://github.com/user-attachments/assets/cebcd922-9057-4db0-9869-d97ab4629f8c" alt="ts-logo" width="100">
+
+
 ### Curso de TypeScript - Udemy
 
 **JavaScript** é uma linguagem de tipagem fraca, o que significa que erros de tipo são detectados apenas em tempo de execução, o que pode ser um problema em grandes aplicações. Para melhorar essa limitação, a Microsoft, liderada por Anders Hejlsberg, desenvolveu o **Typescript** , uma extensão (ou “superset”) do JavaScript. O **Typescript** adiciona tipagem estática e permite uma programação orientada a objetos mais robusta, com variáveis tipadas e classes.
